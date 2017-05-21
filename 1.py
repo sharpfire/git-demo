@@ -5,5 +5,5 @@ c = 3
 # change in tue dev branch mode'
 # edited in dev
 
-# bug fix in master
 
+# lovely boss 
